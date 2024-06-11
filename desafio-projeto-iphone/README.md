@@ -42,5 +42,3 @@ Interfaces e classes que foram criadas:
 - Exibir Página
 - Adicionar Nova Aba
 - Atualizar Página
-
-[Diagrama de Classe] <img src="/assets/img/UML.jpeg">
